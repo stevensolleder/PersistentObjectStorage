@@ -1,1 +1,1 @@
-# PersistentObjectStorage
+# de.stevensolleder.persistentobjectstorage.PersistentObjectStorage
