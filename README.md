@@ -4,7 +4,7 @@
 ![Test](https://img.shields.io/badge/Test-passing-blue)
 
 ## Introduction
-**PersistentObjectStorage** is a simple libary for writing and reading persistent objects that are located in a set folder in the current user folder. The library is also capable of finding out if a program starts for the first time.<br><br>
+**PersistentObjectStorage** is a simple libary for writing and reading persistent objects that are located in a set folder in the current user folder. The library is also capable of finding out if a program starts for the first time.<br>
 It is written for Java 1.8 and above and passing all tests, that should cover most cases.
 <br>
 <br>
