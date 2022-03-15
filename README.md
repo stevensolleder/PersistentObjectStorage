@@ -9,11 +9,15 @@ It is written for Java 1.8 and above and passing all tests, that should cover mo
 <br>
 <br>
 
-## Documentation
-You can find the documentation to the library [here](https://stevensolleder.github.io/PersistentObjectStorage/).<br>
-(Thanks to [isabellwaas](https://github.com/isabellwaas) for helping to create this documentation.)
+## Classes
+You can find all classes of the library [here](https://stevensolleder.github.io/PersistentObjectStorage/).<br>
+Thanks to [isabellwaas](https://github.com/isabellwaas) for helping to create this documentation.
 <br>
 <br>
+
+## Testing
+The library was tested with unit tests on the operating system macOS. There should not be any test scenarios left.
+<br><br>
 
 ## Get in contact
 Feel free to get in contact and share your experience with **PersistentObjectStorage**. Bug reports are also very appreciated.
